@@ -1,4 +1,5 @@
 Ce document permet de vous guidez dans le projet.
+Dans chaque branche du projet, vous trouverez un fichier .md qui vous expliquera l'objectif de la branche où vous vous trouverez.
 
 Si vous avez l'intention de contribuer à ce projet, assurez-vous de suivre les règles ci-dessous.
 
