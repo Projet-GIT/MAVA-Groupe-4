@@ -6,7 +6,7 @@ Si vous avez l'intention de contribuer à ce projet, assurez-vous de suivre les 
 ########## /!\ REGLES A SUIVRES /!\ ##########
 
   --> Cloner le projet en local (ne pas modifier directement sur gitlab) avec la commande suivante :
-git clone git@github.com:Projet-GIT/MAVA-Groupe-4.git -b feature
+git clone https://github.com/Projet-GIT/MAVA-Groupe-4.git -b feature
 
   --> Effectuer les modifications uniquement dans la branche "FEATURE"
   
